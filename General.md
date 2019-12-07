@@ -1,7 +1,6 @@
 These ini entires apply to the General section.
 
-[CrateMinimum](../master/general/CrateMinimum.md)
-
+[CrateMinimum](../master/general/CrateMinimum.md)\
 [CrateMaximum](../master/general/CrateMaximum.md)
 
 ```
