@@ -1,18 +1,8 @@
 These ini entires apply to the General section.
-```
-Entry   : CrateMinimum
-Type    : int
-Default : 1
 
-Crates are normally one per human player but never below this number
-```
-```
-Entry   : CrateMaximum
-Type    : int
-Default : 255
+[CrateMinimum](../general/CrateMinimum.md)
+[CrateMaximum](../general/CrateMaximum.md)
 
-Crates can never exceed this quantity
-```
 ```
 Entry   : CrateRadius
 Type    : lepton
