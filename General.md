@@ -1,8 +1,8 @@
 These ini entires apply to the General section.
 
-[CrateMinimum](../general/CrateMinimum.md)
+[CrateMinimum](../blob/master/general/CrateMinimum.md)
 
-[CrateMaximum](../general/CrateMaximum.md)
+[CrateMaximum](../blob/master/general/CrateMaximum.md)
 
 ```
 Entry   : CrateRadius
